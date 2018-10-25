@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "826935520999",
+    "firebase_url": "https://amigostaan.firebaseio.com",
+    "project_id": "amigostaan",
+    "storage_bucket": "amigostaan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826935520999:android:a0a3f1623c9001eb",
+        "android_client_info": {
+          "package_name": "amigostaan.appspot.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826935520999-gcgr9bn10vipa6d9b5g8qmi0222dtep9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLnBed6OqdLMaL4-1n50YupiOk4DvRKiA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826935520999:android:d722bb02313abb36",
+        "android_client_info": {
+          "package_name": "com.appspot.amigostaan1.basic2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826935520999-bqlhf45a6f7l3h9j1n991kcft2brof7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appspot.amigostaan1.basic2",
+            "certificate_hash": "12e9b8c0231ee238292bfcd473d60c9e6b031ed6"
+          }
+        },
+        {
+          "client_id": "826935520999-gcgr9bn10vipa6d9b5g8qmi0222dtep9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLnBed6OqdLMaL4-1n50YupiOk4DvRKiA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826935520999-gcgr9bn10vipa6d9b5g8qmi0222dtep9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826935520999:android:a137cae1d100d22b",
+        "android_client_info": {
+          "package_name": "com.appspot.amigostaan1.basic3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826935520999-qqvcj1u5i7pp50chdrhskkkndflec6kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appspot.amigostaan1.basic3",
+            "certificate_hash": "12e9b8c0231ee238292bfcd473d60c9e6b031ed6"
+          }
+        },
+        {
+          "client_id": "826935520999-gcgr9bn10vipa6d9b5g8qmi0222dtep9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLnBed6OqdLMaL4-1n50YupiOk4DvRKiA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826935520999-gcgr9bn10vipa6d9b5g8qmi0222dtep9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
